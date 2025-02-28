@@ -18,4 +18,8 @@ various variations of openings, gaining points for each one they identify correc
 runs out, the results are then displayed and saved persistently. 
 
 ## Demo
-![screenshot](images/Home View.png)
+
+<img width="415" alt="Home View" src="https://github.com/user-attachments/assets/c190be74-97db-4893-8c46-afc161c3d0bc" />
+
+<img width="408" alt="Drill View" src="https://github.com/user-attachments/assets/b4d21f54-b66d-4786-9775-ebd00e480507" />
+
