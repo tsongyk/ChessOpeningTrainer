@@ -16,3 +16,6 @@ home view under "View Favorite Openings." The drill section allows users to test
 a timed-style memorization quiz. Once a drill begins, the user will have limited time to identify
 various variations of openings, gaining points for each one they identify correctly. Once time
 runs out, the results are then displayed and saved persistently. 
+
+## Demo
+![screenshot](images/Home View.png)
